@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="__local_jars__:D.\a\MyMVPDemo-master\Lib_Myrecyclerview\libs\clog-1.0.2.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib_Myrecyclerview/libs/clog-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Lib_Myrecyclerview/libs/clog-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
